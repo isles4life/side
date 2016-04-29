@@ -1,4 +1,4 @@
-# python-getting-started
+# python-getting-started -- YUP
 
 A barebones Python app, which can easily be deployed to Heroku.
 
